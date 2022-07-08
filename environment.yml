@@ -1,0 +1,7 @@
+name: file_cleaner
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9
+  - pandas=1.3
